@@ -1,0 +1,53 @@
+PLEASE MAKE THE FOLLOWING FOLDERS BEFORE RUNNING THE PROGRAMS
+
+1. datasets
+2. datasetClean
+3. Dependencies
+4. Features
+5. Features Sorted
+6. Classification/positive
+7. Classification/negative
+8. FinalScore
+
+TOOLS MUST BE INSTALL :
+
+(a) for Python version 2.7.*
+
+    1. Beautiful Soup
+	2. Selenium 
+	3. PyEnchant
+	4. NLTK
+	5. NLTK Stopwords
+
+(b) Stanford Parser
+
+	1. stanford_parser.jar
+	2. englishPCFG.ser.gz (in stanford_models.jar)
+
+*************************************************
+
+Sequence of Programs Must be run
+
+1. crawler.py
+2. cleaning.py
+3. typedDependency.py
+4. features.py
+5. sort_features.py
+6. classifier.py
+7. top_features.py
+8. final_scores.py
+9. ranking.py
+
+**************************************************
+
+For Opinon Lexicon Score Files
+
+https://github.com/DrOttensooser/BiblicalNLPworks/tree/master/SkyDrive/NLP/CommonWorks/Data/Opion-Lexicon-English/SO-CAL
+
+**************************************************
+
+For any query contact:
+
+1. hatim_009@rediffmail.com (HATIM TAI)
+2. zulkarnain.nain786@gmail.com (Md. Zulkarnain)
+3. oveskhan2312@gmail.com (Oves Khan)
